@@ -3,7 +3,7 @@ title: Hackmd Test
 date: 2018-09-11T13:53:44.175Z
 cover: /assets/wolfpack_1500.png
 slug: wolfpack
-category: Markdown
+category: tech
 tags:
   - wolfpack
 ---
