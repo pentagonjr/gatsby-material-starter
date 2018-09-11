@@ -29,7 +29,7 @@
     "gatsby-remark-relative-images": "0.1.2",
     "gatsby-remark-responsive-iframe": "next",
     "gatsby-source-filesystem": "next",
-    "gatsby-transformer-remark": "next",
+    "gatsby-transformer-remark": "*",
     "gatsby-transformer-sharp": "next",
     "lodash": "^4.17.10",
     "moment": "^2.22.2",
