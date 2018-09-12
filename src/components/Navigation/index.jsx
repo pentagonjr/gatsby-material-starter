@@ -10,15 +10,35 @@ const styles = theme => ({
     minHeight: '100%',
     flexDirection: 'column',
     flex: 1,
+    paddingTop: 68,
   },
   pushed: {
-    marginLeft: 240,
+    marginLeft: 300,
   }
 })
+
+const mql = window.matchMedia(`(min-width: 960px)`);
 
 class Navigation extends Component {
   state = {
     open: true,
+    mql,
+  }
+
+  componentDidMount() {
+    mql.addListener(this.setMediaData);
+    this.setMediaData();
+  }
+
+  componentWillUnmount() {
+    this.state.mql.removeListener(this.setMediaData);
+  }
+
+  setMediaData = () => {
+    this.setState({
+      mql: mql,
+      open: mql.matches,
+    });
   }
 
   toggleSidebar = (bool) => {
@@ -31,14 +51,15 @@ class Navigation extends Component {
 
   render() {
     const { children, LocalTitle, classes } = this.props;
+    const { open, mql } = this.state;
     const footerLinks = LocalTitle !== "About";
 
-    const contentPush = this.state.open ? classes.pushed : '';
+    const contentPush = open && mql.matches ? classes.pushed : '';
 
     return (
       <div>
         <Header toggleSidebar={this.toggleSidebar} />
-        <Sidebar open={this.state.open} />
+        <Sidebar open={open} />
         <div className={`${classes.content} ${contentPush}`}>{children}</div>
         <Footer userLinks={footerLinks} />
       </div>

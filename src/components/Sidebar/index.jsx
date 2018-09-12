@@ -12,7 +12,7 @@ const styles = theme => ({
     }
   },
   sidebar: {
-    width: 240,
+    width: 300,
   }
 });
 
