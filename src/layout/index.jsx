@@ -30,7 +30,7 @@ export default class MainLayout extends React.Component {
     return (
       <MuiThemeProvider theme={theme}>
         <CssBaseline />
-        {/* <DefiHeader /> */}
+        <Header />
         <div>
           <Helmet>
             <meta name="description" content={config.siteDescription} />
