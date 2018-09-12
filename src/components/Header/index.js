@@ -11,7 +11,6 @@ import Grid from '@material-ui/core/Grid';
 import ExitToApp from '@material-ui/icons/ExitToApp';
 import MenuIcon from '@material-ui/icons/Menu';
 import MoreVertIcon from '@material-ui/icons/MoreVert';
-
 import Logo from '../../../docs/defi-logo.png';
 
 const styles = theme => ({
@@ -80,7 +79,7 @@ const DefiHeader = (props) => {
         <Grid container spacing={16} justify="center">
           {renderMenu()}
           <Grid item>
-            <a id="logoLink" href="/Home/Landing">
+            <a id="logoLink" href="">
               {renderLogo()}
             </a>
           </Grid>

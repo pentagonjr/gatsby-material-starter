@@ -3,6 +3,7 @@ import { withStyles } from '@material-ui/core/styles';
 import Footer from "../Footer";
 import Header from '../Header';
 import Sidebar from '../Sidebar';
+import getNavList from 'utils/getNavList';
 
 const styles = theme => ({
   content: {
@@ -50,18 +51,19 @@ class Navigation extends Component {
   }
 
   render() {
-    const { children, LocalTitle, classes } = this.props;
+    const { children, localTitle, config, classes } = this.props;
     const { open, mql } = this.state;
-    const footerLinks = LocalTitle !== "About";
-
+    const footerLinks = localTitle !== "About";
     const contentPush = open && mql.matches ? classes.pushed : '';
 
     return (
       <div>
         <Header toggleSidebar={this.toggleSidebar} />
-        <Sidebar open={open} />
+        <Sidebar open={open}>
+          {getNavList(config)}
+        </Sidebar>
         <div className={`${classes.content} ${contentPush}`}>{children}</div>
-        <Footer userLinks={footerLinks} />
+        {/* <Footer userLinks={footerLinks} /> */}
       </div>
     )
   }

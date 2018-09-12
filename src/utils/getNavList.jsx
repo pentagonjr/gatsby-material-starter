@@ -2,7 +2,7 @@ import React from "react";
 import FontIcon from "react-md/lib/FontIcons";
 import { Link } from "gatsby";
 
-function GetNavList(config) {
+const getNavList = (config) => {
   const NavList = [
     {
       primaryText: "Home",
@@ -36,4 +36,5 @@ function GetNavList(config) {
   });
   return NavList;
 }
-export default GetNavList;
+
+export default getNavList;

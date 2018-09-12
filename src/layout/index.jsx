@@ -28,7 +28,7 @@ export default class MainLayout extends React.Component {
     return (
       <MuiThemeProvider theme={theme}>
         <CssBaseline />
-        <Navigation>
+        <Navigation config={config} localTitle={this.props.title}>
           <div>
             <Helmet>
               <meta name="description" content={config.siteDescription} />
