@@ -8,9 +8,7 @@ import "./global.scss";
 
 import MuiThemeProvider from '@material-ui/core/styles/MuiThemeProvider';
 import createMuiTheme from '@material-ui/core/styles/createMuiTheme';
-import Header from '../components/Header';
 import CssBaseline from '@material-ui/core/CssBaseline';
-
 const theme = createMuiTheme();
 
 export default class MainLayout extends React.Component {
@@ -30,13 +28,14 @@ export default class MainLayout extends React.Component {
     return (
       <MuiThemeProvider theme={theme}>
         <CssBaseline />
-        <Header />
-        <div>
-          <Helmet>
-            <meta name="description" content={config.siteDescription} />
-          </Helmet>
-          {children}
-        </div>
+        <Navigation>
+          <div>
+            <Helmet>
+              <meta name="description" content={config.siteDescription} />
+            </Helmet>
+            {children}
+          </div>
+        </Navigation>
       </MuiThemeProvider>
     )
   }

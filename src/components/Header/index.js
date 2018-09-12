@@ -12,6 +12,8 @@ import ExitToApp from '@material-ui/icons/ExitToApp';
 import MenuIcon from '@material-ui/icons/Menu';
 import MoreVertIcon from '@material-ui/icons/MoreVert';
 
+import Logo from '../../../docs/defi-logo.png';
+
 const styles = theme => ({
   button: {
     textTransform: 'none',
@@ -45,7 +47,7 @@ const DefiHeader = (props) => {
     const timestamp = props.clientLastUpdated ? `?${props.clientLastUpdated}` : '';
     const url = `/Home/GetLogo${timestamp}`;
 
-    return <img src={url} alt="logo" className={classes.img} />;
+    return <img src={Logo} alt="logo" className={classes.img} />;
   };
 
   // const renderLinks = () => (
@@ -64,10 +66,10 @@ const DefiHeader = (props) => {
 
   const renderMenu = () => {
     return (
-      <Grid item data-testid="defiHeader-logo">
-        <a id="logoLink" href="/Home/Landing">
-          {renderLogo()}
-        </a>
+      <Grid item data-testid="menuIcon">
+        <IconButton className={classes.menuButton} onClick={() => props.toggleSidebar()} color="inherit" aria-label="Menu">
+          <MenuIcon />
+        </IconButton>
       </Grid>
     );
   };
@@ -77,6 +79,11 @@ const DefiHeader = (props) => {
       <Toolbar className={classes.toolbar}>
         <Grid container spacing={16} justify="center">
           {renderMenu()}
+          <Grid item>
+            <a id="logoLink" href="/Home/Landing">
+              {renderLogo()}
+            </a>
+          </Grid>
           <Grid item className={classes.flexer} />
           {/* {renderLinks()} */}
         </Grid>
