@@ -5,6 +5,8 @@ import {
   createMuiTheme,
   createGenerateClassName
 } from '@material-ui/core/styles';
+import green from '@material-ui/core/colors/green';
+import red from '@material-ui/core/colors/red';
 
 // Create a theme with Gatsby brand colors. You can choose your own
 const theme = createMuiTheme({
