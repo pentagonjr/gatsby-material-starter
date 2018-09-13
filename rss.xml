@@ -1,4 +1,348 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Material Starter]]></title><description><![CDATA[A GatsbyJS stater with Material design in mind.]]></description><link>https://vagr9k.github.io/gatsby-material-starter</link><image><url>https://vagr9k.github.io/gatsby-material-starter/logos/logo-512.png</url><title>Gatsby Material Starter</title><link>https://vagr9k.github.io/gatsby-material-starter</link></image><generator>GatsbyJS Material Starter</generator><lastBuildDate>Tue, 14 Aug 2018 22:50:48 GMT</lastBuildDate><atom:link href="https://vagr9k.github.io/gatsby-material-starter/rss.xml" rel="self" type="application/rss+xml"/><author><![CDATA[Material User]]></author><copyright><![CDATA[Copyright © 2017. Material User]]></copyright><item><title><![CDATA[Introducing Gatsby Material Starter]]></title><description><![CDATA[Around a year ago, this project was one of the first ones ported to the   version of GatsbyJS. And now, it's super exciting for me to…]]></description><link>https://vagr9k.github.io/gatsby-material-starter/introducing-gatsby-material-starter</link><guid isPermaLink="false">https://vagr9k.github.io/gatsby-material-starter/introducing-gatsby-material-starter</guid><category><![CDATA[gatsby]]></category><category><![CDATA[material]]></category><category><![CDATA[starter]]></category><dc:creator><![CDATA[Material User]]></dc:creator><pubDate>Mon, 02 Jul 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Around a year ago, this project was one of the first ones ported to the &lt;code class=&quot;language-text&quot;&gt;v1&lt;/code&gt; version of GatsbyJS.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Material Starter]]></title><description><![CDATA[A GatsbyJS stater with Material design in mind.]]></description><link>https://vagr9k.github.io/gatsby-material-starter</link><image><url>https://vagr9k.github.io/gatsby-material-starter/logos/logo-512.png</url><title>Gatsby Material Starter</title><link>https://vagr9k.github.io/gatsby-material-starter</link></image><generator>GatsbyJS Material Starter</generator><lastBuildDate>Thu, 13 Sep 2018 19:37:47 GMT</lastBuildDate><atom:link href="https://vagr9k.github.io/gatsby-material-starter/rss.xml" rel="self" type="application/rss+xml"/><author><![CDATA[Material User]]></author><copyright><![CDATA[Copyright © 2017. Material User]]></copyright><item><title><![CDATA[Hackmd Test]]></title><description><![CDATA[Blockquote Tags: Using the syntax below to specifiy your  name, time and color  to vary the blockquotes.
+ name=ChengHan Wu   color=#907bf…]]></description><link>https://vagr9k.github.io/gatsby-material-starter/wolfpack</link><guid isPermaLink="false">https://vagr9k.github.io/gatsby-material-starter/wolfpack</guid><category><![CDATA[wolfpack]]></category><dc:creator><![CDATA[Material User]]></dc:creator><pubDate>Tue, 11 Sep 2018 13:53:44 GMT</pubDate><content:encoded>&lt;h3 id=&quot;blockquote-tags&quot;&gt;&lt;a href=&quot;#blockquote-tags&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Blockquote Tags:&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Using the syntax below to specifiy your &lt;strong&gt;name, time and color&lt;/strong&gt; to vary the blockquotes.
+[name=ChengHan Wu][time=sun, jun 28, 2015 9:59 pm] [color=#907bf7]&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Even support the nest blockquotes!
+[name=ChengHan Wu][time=sun, jun 28, 2015 10:00 pm] [color=red]&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;externals&quot;&gt;&lt;a href=&quot;#externals&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Externals&lt;/h2&gt;
+&lt;h3 id=&quot;youtube&quot;&gt;&lt;a href=&quot;#youtube&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;YouTube&lt;/h3&gt;
+&lt;p&gt;{%youtube 1G4isv_Fylg %}&lt;/p&gt;
+&lt;h3 id=&quot;vimeo&quot;&gt;&lt;a href=&quot;#vimeo&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Vimeo&lt;/h3&gt;
+&lt;p&gt;{%vimeo 124148255 %}&lt;/p&gt;
+&lt;h3 id=&quot;gist&quot;&gt;&lt;a href=&quot;#gist&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Gist&lt;/h3&gt;
+&lt;p&gt;{%gist schacon/4277%}&lt;/p&gt;
+&lt;h3 id=&quot;slideshare&quot;&gt;&lt;a href=&quot;#slideshare&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;SlideShare&lt;/h3&gt;
+&lt;p&gt;{%slideshare briansolis/26-disruptive-technology-trends-2016-2018-56796196 %}&lt;/p&gt;
+&lt;h3 id=&quot;speakerdeck&quot;&gt;&lt;a href=&quot;#speakerdeck&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Speakerdeck&lt;/h3&gt;
+&lt;p&gt;{%speakerdeck sugarenia/xxlcss-how-to-scale-css-and-keep-your-sanity %}&lt;/p&gt;
+&lt;h3 id=&quot;pdf&quot;&gt;&lt;a href=&quot;#pdf&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;PDF&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Caution: this might be blocked by your browser if not using an &lt;code class=&quot;language-text&quot;&gt;https&lt;/code&gt; URL.&lt;/strong&gt;
+{%pdf &lt;a href=&quot;https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf&quot;&gt;https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf&lt;/a&gt; %}&lt;/p&gt;
+&lt;h2 id=&quot;mathjax&quot;&gt;&lt;a href=&quot;#mathjax&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;MathJax&lt;/h2&gt;
+&lt;p&gt;You can render &lt;em&gt;LaTeX&lt;/em&gt; mathematical expressions using &lt;strong&gt;MathJax&lt;/strong&gt;, as on &lt;a href=&quot;http://math.stackexchange.com/&quot;&gt;math.stackexchange.com&lt;/a&gt;, except the space after the start &lt;code class=&quot;language-text&quot;&gt;$&lt;/code&gt; and the space before the end &lt;code class=&quot;language-text&quot;&gt;$&lt;/code&gt; are not allowed in the inline math:&lt;/p&gt;
+&lt;p&gt;The &lt;em&gt;Gamma function&lt;/em&gt; satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral&lt;/p&gt;
+&lt;p&gt;$$
+x = {-b \pm \sqrt{b^2-4ac} \over 2a}.
+$$&lt;/p&gt;
+&lt;p&gt;$$
+\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt,.
+$$&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;More information about &lt;strong&gt;LaTeX&lt;/strong&gt; mathematical expressions &lt;a href=&quot;http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;uml-diagrams&quot;&gt;&lt;a href=&quot;#uml-diagrams&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;UML Diagrams&lt;/h2&gt;
+&lt;h3 id=&quot;sequence-diagrams&quot;&gt;&lt;a href=&quot;#sequence-diagrams&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Sequence Diagrams&lt;/h3&gt;
+&lt;p&gt;You can render sequence diagrams like this:&lt;/p&gt;
+&lt;div class=&quot;sequence&quot;&gt;Alice-&gt;Bob: Hello Bob, how are you?
+Note right of Bob: Bob thinks
+Bob--&gt;Alice: I am good thanks!
+Note left of Alice: Alice responds
+Alice-&gt;Bob: Where have you been?&lt;/div&gt;
+&lt;div class=&quot;sequence&quot;&gt;Andrew-&gt;China: Says Hello
+Note right of China: China thinks\nabout it
+China--&gt;Andrew: How are you?
+Andrew-&gt;&gt;China: I am good thanks!&lt;/div&gt;
+&lt;h3 id=&quot;flow-charts&quot;&gt;&lt;a href=&quot;#flow-charts&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Flow Charts&lt;/h3&gt;
+&lt;p&gt;Flow charts can be specified like this:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;flow&quot;&gt;&lt;pre class=&quot;language-flow&quot;&gt;&lt;code class=&quot;language-flow&quot;&gt;st&lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt;start&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; Start
+e&lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt;end&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; End
+op&lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt;operation&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; My Operation
+op2&lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt;operation&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; lalala
+cond&lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt;condition&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; Yes or No&lt;span class=&quot;token operator&quot;&gt;?&lt;/span&gt;
+
+st&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;op&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;op2&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;cond
+&lt;span class=&quot;token function&quot;&gt;cond&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;yes&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;e
+&lt;span class=&quot;token function&quot;&gt;cond&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;no&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;op2&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3 id=&quot;graphviz&quot;&gt;&lt;a href=&quot;#graphviz&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Graphviz&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;graphviz&quot;&gt;&lt;pre class=&quot;language-graphviz&quot;&gt;&lt;code class=&quot;language-graphviz&quot;&gt;digraph hierarchy {
+
+                nodesep=1.0 // increases the separation between nodes
+
+                node [color=Red,fontname=Courier,shape=box] //All nodes will this shape and colour
+                edge [color=Blue, style=dashed] //All the lines look like this
+
+                Headteacher-&amp;gt;{Deputy1 Deputy2 BusinessManager}
+                Deputy1-&amp;gt;{Teacher1 Teacher2}
+                BusinessManager-&amp;gt;ITManager
+                {rank=same;ITManager Teacher1 Teacher2}  // Put them on the same level
+}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3 id=&quot;mermaid&quot;&gt;&lt;a href=&quot;#mermaid&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Mermaid&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;mermaid&quot;&gt;&lt;pre class=&quot;language-mermaid&quot;&gt;&lt;code class=&quot;language-mermaid&quot;&gt;gantt
+    title A Gantt Diagram
+
+    section Section
+    A task           :a1, 2014-01-01, 30d
+    Another task     :after a1  , 20d
+    section Another
+    Task in sec      :2014-01-12  , 12d
+    anther task      : 24d&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3 id=&quot;abc&quot;&gt;&lt;a href=&quot;#abc&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Abc&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;abc&quot;&gt;&lt;pre class=&quot;language-abc&quot;&gt;&lt;code class=&quot;language-abc&quot;&gt;X:1
+T:Speed the Plough
+M:4/4
+C:Trad.
+K:G
+|:GABc dedB|dedB dedB|c2ec B2dB|c2A2 A2BA|
+GABc dedB|dedB dedB|c2ec B2dB|A2F2 G4:|
+|:g2gf gdBd|g2f2 e2d2|c2ec B2dB|c2A2 A2df|
+g2gf g2Bd|g2f2 e2d2|c2ec B2dB|A2F2 G4:|&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;More information about &lt;strong&gt;sequence diagrams&lt;/strong&gt; syntax &lt;a href=&quot;http://bramp.github.io/js-sequence-diagrams/&quot;&gt;here&lt;/a&gt;.
+More information about &lt;strong&gt;flow charts&lt;/strong&gt; syntax &lt;a href=&quot;http://adrai.github.io/flowchart.js/&quot;&gt;here&lt;/a&gt;.
+More information about &lt;strong&gt;graphviz&lt;/strong&gt; syntax &lt;a href=&quot;http://www.tonyballantyne.com/graphs.html&quot;&gt;here&lt;/a&gt;
+More information about &lt;strong&gt;mermaid&lt;/strong&gt; syntax &lt;a href=&quot;http://knsv.github.io/mermaid&quot;&gt;here&lt;/a&gt;
+More information about &lt;strong&gt;abc&lt;/strong&gt; syntax &lt;a href=&quot;http://abcnotation.com/learn&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;alert-area&quot;&gt;&lt;a href=&quot;#alert-area&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Alert Area&lt;/h2&gt;
+&lt;p&gt;:::success
+Yes :tada:
+:::&lt;/p&gt;
+&lt;p&gt;:::info
+This is a message :mega:
+:::&lt;/p&gt;
+&lt;p&gt;:::warning
+Watch out :zap:
+:::&lt;/p&gt;
+&lt;p&gt;:::danger
+Oh No! :fire:
+:::&lt;/p&gt;
+&lt;h2 id=&quot;typography&quot;&gt;&lt;a href=&quot;#typography&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Typography&lt;/h2&gt;
+&lt;h3 id=&quot;headers&quot;&gt;&lt;a href=&quot;#headers&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Headers&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;# h1 Heading
+## h2 Heading
+### h3 Heading
+#### h4 Heading
+##### h5 Heading
+###### h6 Heading&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3 id=&quot;horizontal-rules&quot;&gt;&lt;a href=&quot;#horizontal-rules&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Horizontal Rules&lt;/h3&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;h3 id=&quot;typographic-replacements&quot;&gt;&lt;a href=&quot;#typographic-replacements&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Typographic Replacements&lt;/h3&gt;
+&lt;p&gt;Enable typographer option to see result.&lt;/p&gt;
+&lt;p&gt;(c) (C) (r) (R) (tm) (TM) (p) (P) +-&lt;/p&gt;
+&lt;p&gt;test.. test... test..... test?..... test!....&lt;/p&gt;
+&lt;p&gt;!!!!!! ???? ,,&lt;/p&gt;
+&lt;p&gt;Remarkable -- awesome&lt;/p&gt;
+&lt;p&gt;&quot;Smartypants, double quotes&quot;&lt;/p&gt;
+&lt;p&gt;&apos;Smartypants, single quotes&apos;&lt;/p&gt;
+&lt;h3 id=&quot;emphasis&quot;&gt;&lt;a href=&quot;#emphasis&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Emphasis&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;This is bold text&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This is bold text&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This is italic text&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This is italic text&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;Deleted text&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;lu~lala~&lt;/p&gt;
+&lt;p&gt;Superscript: 19^th^&lt;/p&gt;
+&lt;p&gt;Subscript: H~2~O&lt;/p&gt;
+&lt;p&gt;++Inserted text++&lt;/p&gt;
+&lt;p&gt;==Marked text==&lt;/p&gt;
+&lt;h3 id=&quot;blockquotes&quot;&gt;&lt;a href=&quot;#blockquotes&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Blockquotes&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Blockquotes can also be nested...&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;...by using additional greater-than signs right next to each other...&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;...or with spaces between arrows.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;lists&quot;&gt;&lt;a href=&quot;#lists&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Lists&lt;/h3&gt;
+&lt;h4 id=&quot;unordered&quot;&gt;&lt;a href=&quot;#unordered&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Unordered&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Create a list by starting a line with &lt;code class=&quot;language-text&quot;&gt;+&lt;/code&gt;, &lt;code class=&quot;language-text&quot;&gt;-&lt;/code&gt;, or &lt;code class=&quot;language-text&quot;&gt;*&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sub-lists are made by indenting 2 spaces:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Marker character change forces new list start:&lt;/li&gt;
+&lt;li&gt;Ac tristique libero volutpat at&lt;/li&gt;
+&lt;li&gt;Facilisis in pretium nisl aliquet&lt;/li&gt;
+&lt;li&gt;Nulla volutpat aliquam velit&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Very easy!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;ordered&quot;&gt;&lt;a href=&quot;#ordered&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Ordered&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Lorem ipsum dolor sit amet&lt;/li&gt;
+&lt;li&gt;Consectetur adipiscing elit&lt;/li&gt;
+&lt;li&gt;Integer molestie lorem at massa&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ol&gt;
+&lt;li&gt;You can use sequential numbers...&lt;/li&gt;
+&lt;li&gt;...or keep all the numbers as &lt;code class=&quot;language-text&quot;&gt;1.&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;feafw&lt;/li&gt;
+&lt;li&gt;332&lt;/li&gt;
+&lt;li&gt;242&lt;/li&gt;
+&lt;li&gt;2552&lt;/li&gt;
+&lt;li&gt;e2&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Start numbering with offset:&lt;/p&gt;
+&lt;ol start=&quot;57&quot;&gt;
+&lt;li&gt;foo&lt;/li&gt;
+&lt;li&gt;bar&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&quot;code&quot;&gt;&lt;a href=&quot;#code&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Code&lt;/h3&gt;
+&lt;p&gt;Inline &lt;code class=&quot;language-text&quot;&gt;code&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Indented code&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;// Some comments
+line 1 of code
+line 2 of code
+line 3 of code&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Block code &quot;fences&quot;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Sample text here...&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Syntax highlighting&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;token function-variable function&quot;&gt;foo&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;bar&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; bar&lt;span class=&quot;token operator&quot;&gt;++&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;foo&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3 id=&quot;tables&quot;&gt;&lt;a href=&quot;#tables&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Tables&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Option&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;data&lt;/td&gt;
+&lt;td&gt;path to data files to supply the data that will be passed into templates.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;engine&lt;/td&gt;
+&lt;td&gt;engine to be used for processing templates. Handlebars is the default.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ext&lt;/td&gt;
+&lt;td&gt;extension to be used for dest files.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Right aligned columns&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&quot;right&quot;&gt;Option&lt;/th&gt;
+&lt;th align=&quot;right&quot;&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&quot;right&quot;&gt;data&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;path to data files to supply the data that will be passed into templates.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;right&quot;&gt;engine&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;engine to be used for processing templates. Handlebars is the default.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;right&quot;&gt;ext&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;extension to be used for dest files.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Left aligned columns&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&quot;left&quot;&gt;Option&lt;/th&gt;
+&lt;th align=&quot;left&quot;&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;data&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;path to data files to supply the data that will be passed into templates.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;engine&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;engine to be used for processing templates. Handlebars is the default.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;ext&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;extension to be used for dest files.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Center aligned columns&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&quot;center&quot;&gt;Option&lt;/th&gt;
+&lt;th align=&quot;center&quot;&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&quot;center&quot;&gt;data&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;path to data files to supply the data that will be passed into templates.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;center&quot;&gt;engine&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;engine to be used for processing templates. Handlebars is the default.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;center&quot;&gt;ext&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;extension to be used for dest files.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&quot;links&quot;&gt;&lt;a href=&quot;#links&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Links&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;http://dev.nodeca.com&quot;&gt;link text&lt;/a&gt;
+&lt;a href=&quot;http://nodeca.github.io/pica/demo/&quot; title=&quot;title text!&quot;&gt;link with title&lt;/a&gt;
+Autoconverted link &lt;a href=&quot;https://github.com/nodeca/pica&quot;&gt;https://github.com/nodeca/pica&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;images&quot;&gt;&lt;a href=&quot;#images&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Images&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://octodex.github.com/images/minion.png&quot; alt=&quot;Minion&quot;&gt;
+&lt;img src=&quot;https://octodex.github.com/images/stormtroopocat.jpg&quot; alt=&quot;Stormtroopocat&quot; title=&quot;The Stormtroopocat&quot;&gt;
+Like links, Images also have a footnote style syntax
+&lt;img src=&quot;https://octodex.github.com/images/dojocat.jpg&quot; alt=&quot;Alt text&quot; title=&quot;The Dojocat&quot;&gt;
+With a reference later in the document defining the URL location:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://octodex.github.com/images/minion.png%20=200x200&quot; alt=&quot;Minion&quot;&gt;
+Show the image with given size&lt;/p&gt;
+&lt;h3 id=&quot;footnotes&quot;&gt;&lt;a href=&quot;#footnotes&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Footnotes&lt;/h3&gt;
+&lt;p&gt;Footnote 1 link&lt;sup id=&quot;fnref-first&quot;&gt;&lt;a href=&quot;#fn-first&quot; class=&quot;footnote-ref&quot;&gt;first&lt;/a&gt;&lt;/sup&gt;.
+Footnote 2 link&lt;sup id=&quot;fnref-second&quot;&gt;&lt;a href=&quot;#fn-second&quot; class=&quot;footnote-ref&quot;&gt;second&lt;/a&gt;&lt;/sup&gt;.
+Inline footnote^[Text of inline footnote] definition.
+Duplicated footnote reference&lt;sup id=&quot;fnref-second&quot;&gt;&lt;a href=&quot;#fn-second&quot; class=&quot;footnote-ref&quot;&gt;second&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;h3 id=&quot;definition-lists&quot;&gt;&lt;a href=&quot;#definition-lists&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Definition Lists&lt;/h3&gt;
+&lt;p&gt;Term 1&lt;/p&gt;
+&lt;p&gt;:   Definition 1
+with lazy continuation.&lt;/p&gt;
+&lt;p&gt;Term 2 with &lt;em&gt;inline markup&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;:   Definition 2&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;    { some code, part of Definition 2 }
+
+Third paragraph of definition 2.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;Compact style:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Term 1
+~ Definition 1&lt;/p&gt;
+&lt;p&gt;Term 2
+~ Definition 2a
+~ Definition 2b&lt;/p&gt;
+&lt;h3 id=&quot;abbreviations&quot;&gt;&lt;a href=&quot;#abbreviations&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Abbreviations&lt;/h3&gt;
+&lt;p&gt;This is an HTML abbreviation example.
+It converts &quot;HTML&quot;, but keeps intact partial entries like &quot;xxxHTMLyyy&quot; and so on.&lt;/p&gt;
+&lt;p&gt;*[HTML]: Hyper Text Markup Language&lt;/p&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&quot;fn-first&quot;&gt;
+&lt;p&gt;Footnote &lt;strong&gt;can have markup&lt;/strong&gt;
+and multiple paragraphs.&lt;/p&gt;
+&lt;a href=&quot;#fnref-first&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-second&quot;&gt;
+&lt;p&gt;Footnote text.&lt;/p&gt;
+&lt;a href=&quot;#fnref-second&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Introducing Gatsby Material Starter]]></title><description><![CDATA[Around a year ago, this project was one of the first ones ported to the   version of GatsbyJS. And now, it's super exciting for me to…]]></description><link>https://vagr9k.github.io/gatsby-material-starter/introducing-gatsby-material-starter</link><guid isPermaLink="false">https://vagr9k.github.io/gatsby-material-starter/introducing-gatsby-material-starter</guid><category><![CDATA[gatsby]]></category><category><![CDATA[material]]></category><category><![CDATA[starter]]></category><dc:creator><![CDATA[Material User]]></dc:creator><pubDate>Mon, 02 Jul 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Around a year ago, this project was one of the first ones ported to the &lt;code class=&quot;language-text&quot;&gt;v1&lt;/code&gt; version of GatsbyJS.&lt;/p&gt;
 &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Great news! Gatsby Material starter is now based on stable V1 of &lt;a href=&quot;https://twitter.com/gatsbyjs&quot;&gt;@gatsbyjs&lt;/a&gt;!&lt;a href=&quot;https://t.co/P2JqNbcRmk&quot;&gt;https://t.co/P2JqNbcRmk&lt;/a&gt;&lt;/p&gt;&amp;mdash; Ruben Harutyunyan (@Vagr9K) &lt;a href=&quot;https://twitter.com/Vagr9K/status/883073085963993089&quot;&gt;July 6, 2017&lt;/a&gt;&lt;/blockquote&gt;
 &lt;p&gt;And now, it&apos;s super exciting for me to announce the &lt;code class=&quot;language-text&quot;&gt;v2&lt;/code&gt; version of &lt;code class=&quot;language-text&quot;&gt;Gatsby Material Starter&lt;/code&gt; with the support of the newest Gatsby v2 features!&lt;/p&gt;
 &lt;p&gt;You can also visit &lt;a href=&quot;https://vagr9k.me&quot;&gt;my personal blog&lt;/a&gt; if you want to see a fully implemented blog based on this starter.&lt;/p&gt;
@@ -138,8 +482,7 @@
 &lt;a href=&quot;#videos&quot;&gt;YouTube Videos&lt;/a&gt;&lt;/p&gt;
 &lt;a name=&quot;headers&quot;/&gt;
 &lt;h2 id=&quot;headers&quot;&gt;&lt;a href=&quot;#headers&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Headers&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;no-highlight&quot;&gt;
-      &lt;pre class=&quot;language-no-highlight&quot;&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;# H1
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;no-highlight&quot;&gt;&lt;pre class=&quot;language-no-highlight&quot;&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;# H1
 ## H2
 ### H3
 #### H4
@@ -152,8 +495,7 @@ Alt-H1
 ======
 
 Alt-H2
-------&lt;/code&gt;&lt;/pre&gt;
-      &lt;/div&gt;
+------&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;h1 id=&quot;h1&quot;&gt;&lt;a href=&quot;#h1&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;H1&lt;/h1&gt;
 &lt;h2 id=&quot;h2&quot;&gt;&lt;a href=&quot;#h2&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;H2&lt;/h2&gt;
 &lt;h3 id=&quot;h3&quot;&gt;&lt;a href=&quot;#h3&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;H3&lt;/h3&gt;
@@ -165,23 +507,20 @@ Alt-H2
 &lt;h2 id=&quot;alt-h2&quot;&gt;&lt;a href=&quot;#alt-h2&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Alt-H2&lt;/h2&gt;
 &lt;a name=&quot;emphasis&quot;/&gt;
 &lt;h2 id=&quot;emphasis&quot;&gt;&lt;a href=&quot;#emphasis&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Emphasis&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;no-highlight&quot;&gt;
-      &lt;pre class=&quot;language-no-highlight&quot;&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Emphasis, aka italics, with *asterisks* or _underscores_.
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;no-highlight&quot;&gt;&lt;pre class=&quot;language-no-highlight&quot;&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Emphasis, aka italics, with *asterisks* or _underscores_.
 
 Strong emphasis, aka bold, with **asterisks** or __underscores__.
 
 Combined emphasis with **asterisks and _underscores_**.
 
-Strikethrough uses two tildes. ~~Scratch this.~~&lt;/code&gt;&lt;/pre&gt;
-      &lt;/div&gt;
+Strikethrough uses two tildes. ~~Scratch this.~~&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Emphasis, aka italics, with &lt;em&gt;asterisks&lt;/em&gt; or &lt;em&gt;underscores&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;Strong emphasis, aka bold, with &lt;strong&gt;asterisks&lt;/strong&gt; or &lt;strong&gt;underscores&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Combined emphasis with &lt;strong&gt;asterisks and &lt;em&gt;underscores&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Strikethrough uses two tildes. &lt;del&gt;Scratch this.&lt;/del&gt;&lt;/p&gt;
 &lt;a name=&quot;lists&quot;/&gt;
 &lt;h2 id=&quot;lists&quot;&gt;&lt;a href=&quot;#lists&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Lists&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;no-highlight&quot;&gt;
-      &lt;pre class=&quot;language-no-highlight&quot;&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;1. First ordered list item
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;no-highlight&quot;&gt;&lt;pre class=&quot;language-no-highlight&quot;&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;1. First ordered list item
 2. Another item
   * Unordered sub-list.
 1. Actual numbers don&amp;#39;t matter, just that it&amp;#39;s a number
@@ -192,8 +531,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~&lt;/code&gt;&lt;/pre&gt;
 
 * Unordered list can use asterisks
 - Or minuses
-+ Or pluses&lt;/code&gt;&lt;/pre&gt;
-      &lt;/div&gt;
++ Or pluses&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;First ordered list item&lt;/p&gt;
@@ -227,8 +565,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~&lt;/code&gt;&lt;/pre&gt;
 &lt;a name=&quot;links&quot;/&gt;
 &lt;h2 id=&quot;links&quot;&gt;&lt;a href=&quot;#links&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Links&lt;/h2&gt;
 &lt;p&gt;There are two ways to create links.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;no-highlight&quot;&gt;
-      &lt;pre class=&quot;language-no-highlight&quot;&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;[I&amp;#39;m an inline-style link](https://www.google.com)
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;no-highlight&quot;&gt;&lt;pre class=&quot;language-no-highlight&quot;&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;[I&amp;#39;m an inline-style link](https://www.google.com)
 
 [I&amp;#39;m a reference-style link][Arbitrary case-insensitive reference text]
 
@@ -244,8 +581,7 @@ Some text to show that the reference links can follow later.
 
 [arbitrary case-insensitive reference text]: https://www.mozilla.org
 [1]: http://slashdot.org
-[link text itself]: http://www.reddit.com&lt;/code&gt;&lt;/pre&gt;
-      &lt;/div&gt;
+[link text itself]: http://www.reddit.com&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.google.com&quot;&gt;I&apos;m an inline-style link&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.mozilla.org&quot;&gt;I&apos;m a reference-style link&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://slashdot.org&quot;&gt;You can use numbers for reference-style link definitions&lt;/a&gt;&lt;/p&gt;
@@ -256,8 +592,7 @@ example.com (but not on Github, for example).&lt;/p&gt;
 &lt;p&gt;Some text to show that the reference links can follow later.&lt;/p&gt;
 &lt;a name=&quot;images&quot;/&gt;
 &lt;h2 id=&quot;images&quot;&gt;&lt;a href=&quot;#images&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Images&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;no-highlight&quot;&gt;
-      &lt;pre class=&quot;language-no-highlight&quot;&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Here&amp;#39;s our logo (hover to see the title text):
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;no-highlight&quot;&gt;&lt;pre class=&quot;language-no-highlight&quot;&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Here&amp;#39;s our logo (hover to see the title text):
 
 Inline-style:
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png &amp;quot;Logo Title Text 1&amp;quot;)
@@ -265,8 +600,7 @@ Inline-style:
 Reference-style:
 ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png &amp;quot;Logo Title Text 2&amp;quot;&lt;/code&gt;&lt;/pre&gt;
-      &lt;/div&gt;
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png &amp;quot;Logo Title Text 2&amp;quot;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Here&apos;s our logo (hover to see the title text):&lt;/p&gt;
 &lt;p&gt;Inline-style:
 &lt;img src=&quot;https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png&quot; alt=&quot;alt text&quot; title=&quot;Logo Title Text 1&quot;&gt;&lt;/p&gt;
@@ -275,9 +609,7 @@ Reference-style:
 &lt;a name=&quot;code&quot;/&gt;
 &lt;h2 id=&quot;code-and-syntax-highlighting&quot;&gt;&lt;a href=&quot;#code-and-syntax-highlighting&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Code and Syntax Highlighting&lt;/h2&gt;
 &lt;p&gt;Code blocks are part of the Markdown spec, but syntax highlighting isn&apos;t. However, many renderers -- like Github&apos;s and &lt;em&gt;Markdown Here&lt;/em&gt; -- support syntax highlighting. &lt;em&gt;Markdown Here&lt;/em&gt; supports highlighting for dozens of languages (and not-really-languages, like diffs and HTTP headers); to see the complete list, and how to write the language names, see the &lt;a href=&quot;http://softwaremaniacs.org/media/soft/highlight/test.html&quot;&gt;highlight.js demo page&lt;/a&gt;.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;no-highlight&quot;&gt;
-      &lt;pre class=&quot;language-no-highlight&quot;&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Inline `code` has `back-ticks around` it.&lt;/code&gt;&lt;/pre&gt;
-      &lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;no-highlight&quot;&gt;&lt;pre class=&quot;language-no-highlight&quot;&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Inline `code` has `back-ticks around` it.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Inline &lt;code class=&quot;language-text&quot;&gt;code&lt;/code&gt; has &lt;code class=&quot;language-text&quot;&gt;back-ticks around&lt;/code&gt; it.&lt;/p&gt;
 &lt;p&gt;Blocks of code are either fenced by lines with three back-ticks &lt;code&gt;`&lt;code class=&quot;language-text&quot;&gt;&lt;/code&gt;&lt;/code&gt;, or are indented with four spaces. I recommend only using the fenced code blocks -- they&apos;re easier and only they support syntax highlighting.&lt;/p&gt;
 &lt;pre lang=&quot;no-highlight&quot;&gt;&lt;code&gt;```javascript
@@ -295,24 +627,17 @@ No language indicated, so no syntax highlighting.
 But let&apos;s throw in a &amp;lt;b&amp;gt;tag&amp;lt;/b&amp;gt;.
 ```
 &lt;/code&gt;&lt;/pre&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;
-      &lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; s &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;JavaScript syntax highlighting&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token function&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;s&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
-      &lt;/div&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;python&quot;&gt;
-      &lt;pre class=&quot;language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;s &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;Python syntax highlighting&quot;&lt;/span&gt;
-&lt;span class=&quot;token keyword&quot;&gt;print&lt;/span&gt; s&lt;/code&gt;&lt;/pre&gt;
-      &lt;/div&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;
-      &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;No language indicated, so no syntax highlighting in Markdown Here (varies on Github).
-But let&amp;#39;s throw in a &amp;lt;b&amp;gt;tag&amp;lt;/b&amp;gt;.&lt;/code&gt;&lt;/pre&gt;
-      &lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; s &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;JavaScript syntax highlighting&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token function&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;s&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;python&quot;&gt;&lt;pre class=&quot;language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;s &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;Python syntax highlighting&quot;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;print&lt;/span&gt; s&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;No language indicated, so no syntax highlighting in Markdown Here (varies on Github).
+But let&amp;#39;s throw in a &amp;lt;b&amp;gt;tag&amp;lt;/b&amp;gt;.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Again, to see what languages are available for highlighting, and how to write those language names, see the &lt;a href=&quot;http://softwaremaniacs.org/media/soft/highlight/test.html&quot;&gt;highlight.js demo page&lt;/a&gt;.&lt;/p&gt;
 &lt;a name=&quot;tables&quot;/&gt;
 &lt;h2 id=&quot;tables&quot;&gt;&lt;a href=&quot;#tables&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Tables&lt;/h2&gt;
 &lt;p&gt;Tables aren&apos;t part of the core Markdown spec, but they are part of GFM and &lt;em&gt;Markdown Here&lt;/em&gt; supports them. They are an easy way of adding tables to your email -- a task that would otherwise require copy-pasting from another application.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;no-highlight&quot;&gt;
-      &lt;pre class=&quot;language-no-highlight&quot;&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Colons can be used to align columns.
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;no-highlight&quot;&gt;&lt;pre class=&quot;language-no-highlight&quot;&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;Colons can be used to align columns.
 
 | Tables        | Are           | Cool  |
 | ------------- | :-----------: | ----: |
@@ -325,8 +650,7 @@ The outer pipes (|) are optional, and you don&amp;#39;t need to make the raw Mar
 | | Markdown | Less           | Pretty     |     |
 | | ------------- | --------------- | ---------- |------- |
 | | *Still*   | `renders` | **nicely** | |
-| | 1               | 2                 | 3          |          |&lt;/code&gt;&lt;/pre&gt;
-      &lt;/div&gt;
+| | 1               | 2                 | 3          |          |&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Colons can be used to align columns.&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -378,14 +702,12 @@ The outer pipes (|) are optional, and you don&amp;#39;t need to make the raw Mar
 &lt;/table&gt;
 &lt;a name=&quot;blockquotes&quot;/&gt;
 &lt;h2 id=&quot;blockquotes&quot;&gt;&lt;a href=&quot;#blockquotes&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Blockquotes&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;no-highlight&quot;&gt;
-      &lt;pre class=&quot;language-no-highlight&quot;&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;&amp;gt; Blockquotes are very handy in email to emulate reply text.
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;no-highlight&quot;&gt;&lt;pre class=&quot;language-no-highlight&quot;&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;&amp;gt; Blockquotes are very handy in email to emulate reply text.
 &amp;gt; This line is part of the same quote.
 
 Quote break.
 
-&amp;gt; This is a very long line that will still be quoted properly when it wraps. Oh boy let&amp;#39;s keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.&lt;/code&gt;&lt;/pre&gt;
-      &lt;/div&gt;
+&amp;gt; This is a very long line that will still be quoted properly when it wraps. Oh boy let&amp;#39;s keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Blockquotes are very handy in email to emulate reply text.
 This line is part of the same quote.&lt;/p&gt;
@@ -397,15 +719,13 @@ This line is part of the same quote.&lt;/p&gt;
 &lt;a name=&quot;html&quot;/&gt;
 &lt;h2 id=&quot;inline-html&quot;&gt;&lt;a href=&quot;#inline-html&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Inline HTML&lt;/h2&gt;
 &lt;p&gt;You can also use raw HTML in your Markdown, and it&apos;ll mostly work pretty well.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;no-highlight&quot;&gt;
-      &lt;pre class=&quot;language-no-highlight&quot;&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;&amp;lt;dl&amp;gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;no-highlight&quot;&gt;&lt;pre class=&quot;language-no-highlight&quot;&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;&amp;lt;dl&amp;gt;
   &amp;lt;dt&amp;gt;Definition list&amp;lt;/dt&amp;gt;
   &amp;lt;dd&amp;gt;Is something people use sometimes.&amp;lt;/dd&amp;gt;
 
   &amp;lt;dt&amp;gt;Markdown in HTML&amp;lt;/dt&amp;gt;
   &amp;lt;dd&amp;gt;Does *not* work **very** well. Use HTML &amp;lt;em&amp;gt;tags&amp;lt;/em&amp;gt;.&amp;lt;/dd&amp;gt;
-&amp;lt;/dl&amp;gt;&lt;/code&gt;&lt;/pre&gt;
-      &lt;/div&gt;
+&amp;lt;/dl&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;dl&gt;
   &lt;dt&gt;Definition list&lt;/dt&gt;
   &lt;dd&gt;Is something people use sometimes.&lt;/dd&gt;
@@ -414,8 +734,7 @@ This line is part of the same quote.&lt;/p&gt;
 &lt;/dl&gt;
 &lt;a name=&quot;hr&quot;/&gt;
 &lt;h2 id=&quot;horizontal-rule&quot;&gt;&lt;a href=&quot;#horizontal-rule&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Horizontal Rule&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;
-      &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Three or more...
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Three or more...
 
 ---
 
@@ -427,8 +746,7 @@ Asterisks
 
 ___
 
-Underscores&lt;/code&gt;&lt;/pre&gt;
-      &lt;/div&gt;
+Underscores&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Three or more...&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;Hyphens&lt;/p&gt;
@@ -440,14 +758,12 @@ Underscores&lt;/code&gt;&lt;/pre&gt;
 &lt;h2 id=&quot;line-breaks&quot;&gt;&lt;a href=&quot;#line-breaks&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Line Breaks&lt;/h2&gt;
 &lt;p&gt;My basic recommendation for learning how line breaks work is to experiment and discover -- hit &amp;#x3C;Enter&gt; once (i.e., insert one newline), then hit it twice (i.e., insert two newlines), see what happens. You&apos;ll soon learn to get what you want. &quot;Markdown Toggle&quot; is your friend.&lt;/p&gt;
 &lt;p&gt;Here are some things to try out:&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;
-      &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Here&amp;#39;s a line for us to start with.
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Here&amp;#39;s a line for us to start with.
 
 This line is separated from the one above by two newlines, so it will be a *separate paragraph*.
 
 This line is also a separate paragraph, but...
-This line is only separated by a single newline, so it&amp;#39;s a separate line in the *same paragraph*.&lt;/code&gt;&lt;/pre&gt;
-      &lt;/div&gt;
+This line is only separated by a single newline, so it&amp;#39;s a separate line in the *same paragraph*.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Here&apos;s a line for us to start with.&lt;/p&gt;
 &lt;p&gt;This line is separated from the one above by two newlines, so it will be a &lt;em&gt;separate paragraph&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;This line is also begins a separate paragraph, but...
@@ -456,15 +772,11 @@ This line is only separated by a single newline, so it&apos;s a separate line in
 &lt;a name=&quot;videos&quot;/&gt;
 &lt;h2 id=&quot;youtube-videos&quot;&gt;&lt;a href=&quot;#youtube-videos&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;YouTube Videos&lt;/h2&gt;
 &lt;p&gt;They can&apos;t be added directly but you can add an image with a link to the video like this:&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;no-highlight&quot;&gt;
-      &lt;pre class=&quot;language-no-highlight&quot;&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;&amp;lt;a href=&amp;quot;http://www.youtube.com/watch?feature=player_embedded&amp;amp;v=8AkLfYOgIrE
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;no-highlight&quot;&gt;&lt;pre class=&quot;language-no-highlight&quot;&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;&amp;lt;a href=&amp;quot;http://www.youtube.com/watch?feature=player_embedded&amp;amp;v=8AkLfYOgIrE
 &amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://img.youtube.com/vi/8AkLfYOgIrE/0.jpg&amp;quot;
-alt=&amp;quot;IMAGE ALT TEXT HERE&amp;quot; width=&amp;quot;240&amp;quot; height=&amp;quot;180&amp;quot; border=&amp;quot;10&amp;quot; /&amp;gt;&amp;lt;/a&amp;gt;&lt;/code&gt;&lt;/pre&gt;
-      &lt;/div&gt;
+alt=&amp;quot;IMAGE ALT TEXT HERE&amp;quot; width=&amp;quot;240&amp;quot; height=&amp;quot;180&amp;quot; border=&amp;quot;10&amp;quot; /&amp;gt;&amp;lt;/a&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Or, in pure Markdown, but losing the image sizing and border:&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;no-highlight&quot;&gt;
-      &lt;pre class=&quot;language-no-highlight&quot;&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)&lt;/code&gt;&lt;/pre&gt;
-      &lt;/div&gt;</content:encoded></item><item><title><![CDATA[The Fairy's Witches]]></title><description><![CDATA[Eram mora tuas in inter ferens caterva Ait oculos Lorem markdownum. Dedit caput, saxa lenis adhibere negarunt substiterat et ab
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;no-highlight&quot;&gt;&lt;pre class=&quot;language-no-highlight&quot;&gt;&lt;code class=&quot;language-no-highlight&quot;&gt;[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[The Fairy's Witches]]></title><description><![CDATA[Eram mora tuas in inter ferens caterva Ait oculos Lorem markdownum. Dedit caput, saxa lenis adhibere negarunt substiterat et ab
 testes…]]></description><link>https://vagr9k.github.io/gatsby-material-starter/the-fairys-witches</link><guid isPermaLink="false">https://vagr9k.github.io/gatsby-material-starter/the-fairys-witches</guid><dc:creator><![CDATA[Material User]]></dc:creator><pubDate>Sun, 02 Apr 2017 00:00:00 GMT</pubDate><content:encoded>&lt;h1 id=&quot;eram-mora-tuas-in-inter-ferens-caterva&quot;&gt;&lt;a href=&quot;#eram-mora-tuas-in-inter-ferens-caterva&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Eram mora tuas in inter ferens caterva&lt;/h1&gt;
 &lt;h2 id=&quot;ait-oculos&quot;&gt;&lt;a href=&quot;#ait-oculos&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Ait oculos&lt;/h2&gt;
 &lt;p&gt;Lorem markdownum. Dedit caput, saxa lenis adhibere negarunt substiterat et ab
@@ -589,8 +901,7 @@ cerno&lt;/em&gt;. Creatos plangente voluptas est nomen opes: nequeo ullus; accip
 mollibus carmen. &lt;a href=&quot;http://esse-sertis.net/&quot;&gt;Contigerant&lt;/a&gt; haec Antium latebris
 manus quamquam Erigdupum virgultis debes. Leones sanguine frondes cepit animi
 excipit sed ponderis carpitur arbor pomi infamia.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;
-      &lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;subdirectory&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;video_backlink_jquery &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; plug_d&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;upSku&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;nuiMini&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;spyware&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;subdirectory&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;video_backlink_jquery &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; plug_d&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;upSku&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;nuiMini&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;spyware&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
 property &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; hard &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;tracerouteNetCrop&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;multi&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; xp_byte&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; software_wheel_readme&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
 &lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;username&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;prebinding&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;kbps&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
   fifo_expansion_ppga &lt;span class=&quot;token operator&quot;&gt;+=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;io_memory_fi&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;analyst_copyright&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;protocolZifPpc&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
@@ -601,8 +912,7 @@ property &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; hard &lt;sp
   archie &lt;span class=&quot;token operator&quot;&gt;+=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
   risc&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;ripcording &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
 &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; so &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;sampling_motion_unicode&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;webCursorImpact&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; hub&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
-      &lt;/div&gt;
+&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; so &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;sampling_motion_unicode&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;webCursorImpact&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; hub&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;h2 id=&quot;vehi-arcus-quondam-australem-agitabitur-excessitque-coniuge&quot;&gt;&lt;a href=&quot;#vehi-arcus-quondam-australem-agitabitur-excessitque-coniuge&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Vehi arcus quondam australem agitabitur excessitque coniuge&lt;/h2&gt;
 &lt;p&gt;Celebrant est hausto &lt;em&gt;reperire et&lt;/em&gt; unam &lt;strong&gt;caerulaque&lt;/strong&gt;, lumen que &lt;em&gt;Aeaciden&lt;/em&gt;
 mare primo insignis. Et Persidaque &lt;a href=&quot;http://suas.com/meignem&quot;&gt;tenet&lt;/a&gt;, si centum
@@ -675,8 +985,7 @@ inter Cynthia est gemitu crimina sis, et preces cuncta tamen?&lt;/p&gt;</content
 &lt;h2 id=&quot;hoc-domum-solitos-veteremque-nostrum&quot;&gt;&lt;a href=&quot;#hoc-domum-solitos-veteremque-nostrum&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Hoc domum solitos veteremque nostrum&lt;/h2&gt;
 &lt;p&gt;Lorem markdownum huc suo ara, dubites celeri mihi bicolor. Secuti non? Suo opus
 quales dant, puppim hanc!&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;
-      &lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;enterprise &lt;span class=&quot;token operator&quot;&gt;/=&lt;/span&gt; mp_operating_quad&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;enterprise &lt;span class=&quot;token operator&quot;&gt;/=&lt;/span&gt; mp_operating_quad&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
 dsl_runtime&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;wired_horizontal_jquery &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;vramUs&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;64389&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; aix &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt; socialSector &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; quad&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
 &lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
   flaming &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
@@ -684,8 +993,7 @@ dsl_runtime&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;wired_h
 &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
   num_network_cpa &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; firewireAluExbibyte &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; denial_virtual_logic &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; program&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
 &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;token function&quot;&gt;scanner&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;ram_wddm&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;map&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; reader &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; ole_install&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
-      &lt;/div&gt;
+&lt;span class=&quot;token function&quot;&gt;scanner&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;ram_wddm&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;map&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; reader &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; ole_install&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;h2 id=&quot;in-nunc&quot;&gt;&lt;a href=&quot;#in-nunc&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;In nunc&lt;/h2&gt;
 &lt;p&gt;Superinposita dira me Iove, lanigeris tendunt! Illis gladii, in pignusque dixit
 trisulcis latices. Me mora usque carchesia plenaque idem femineo: abditus
@@ -709,8 +1017,7 @@ praebentem tanto dubiis anguiferumque. Fata vidit &lt;a href=&quot;http://nare.i
 mirere&lt;/a&gt; serpentibus tibi propositumque vestes capillis
 natalibus, fitque! Verba Siphnon, arcanaque vicina, Cycnum mox suos coniunx
 ebrius.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;java&quot;&gt;
-      &lt;pre class=&quot;language-java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;    &lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;hsf&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt; artMetalMeme&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;yottabytePrimary&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;circuit&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;java&quot;&gt;&lt;pre class=&quot;language-java&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;    &lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;hsf&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt; artMetalMeme&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;yottabytePrimary&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;circuit&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
         saas&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;backbone &lt;span class=&quot;token operator&quot;&gt;+=&lt;/span&gt; netmaskUtf&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
     &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
         engineNybble&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;crtSdram &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; link_icq&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
@@ -727,12 +1034,11 @@ ebrius.&lt;/p&gt;
         leafPowerBar &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; spoolPower&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
         file_itunes &lt;span class=&quot;token operator&quot;&gt;+=&lt;/span&gt; dataLifo&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
     &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-    binary &lt;span class=&quot;token operator&quot;&gt;*=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
-      &lt;/div&gt;
+    binary &lt;span class=&quot;token operator&quot;&gt;*=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Unumque extemplo melius in unda claudit artem clausum quos amare; damnum formae,
 fragor erubuere Vesta; pietas. Guttura nova modo obstantis nitar et &lt;strong&gt;boves&lt;/strong&gt;;
-dixit paratibus tenera contiguas occupat &lt;strong&gt;seque casu&lt;/strong&gt;.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Bold Mage]]></title><description><![CDATA[Quanto et ius coniunctis urbes Sedisti civiliter Lorem  markdownum  Ixione palus  semper peritura barbaque  in aureus
-obliquum erigitur…]]></description><link>https://vagr9k.github.io/gatsby-material-starter/bold-mage</link><guid isPermaLink="false">https://vagr9k.github.io/gatsby-material-starter/bold-mage</guid><category><![CDATA[programming]]></category><category><![CDATA[stuff]]></category><category><![CDATA[other]]></category><dc:creator><![CDATA[Material User]]></dc:creator><pubDate>Sun, 01 Jan 2017 00:00:00 GMT</pubDate><content:encoded>&lt;h1 id=&quot;quanto-et-ius-coniunctis-urbes&quot;&gt;&lt;a href=&quot;#quanto-et-ius-coniunctis-urbes&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Quanto et ius coniunctis urbes&lt;/h1&gt;
+dixit paratibus tenera contiguas occupat &lt;strong&gt;seque casu&lt;/strong&gt;.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Bold Test]]></title><description><![CDATA[Quanto et ius coniunctis urbes Sedisti civiliter Lorem  markdownum  Ixione palus  semper peritura barbaque  in aureus
+obliquum erigitur…]]></description><link>https://vagr9k.github.io/gatsby-material-starter/test</link><guid isPermaLink="false">https://vagr9k.github.io/gatsby-material-starter/test</guid><category><![CDATA[programming]]></category><category><![CDATA[stuff]]></category><category><![CDATA[other]]></category><dc:creator><![CDATA[Material User]]></dc:creator><pubDate>Sun, 01 Jan 2017 00:00:00 GMT</pubDate><content:encoded>&lt;h1 id=&quot;quanto-et-ius-coniunctis-urbes&quot;&gt;&lt;a href=&quot;#quanto-et-ius-coniunctis-urbes&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Quanto et ius coniunctis urbes&lt;/h1&gt;
 &lt;h2 id=&quot;sedisti-civiliter&quot;&gt;&lt;a href=&quot;#sedisti-civiliter&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Sedisti civiliter&lt;/h2&gt;
 &lt;p&gt;Lorem &lt;strong&gt;markdownum&lt;/strong&gt; Ixione palus &lt;strong&gt;semper peritura barbaque&lt;/strong&gt; in aureus
 obliquum erigitur gemmae utque cur natus, aera supplice de nudae. Manus
@@ -744,12 +1050,10 @@ animalia praeceps Meleagre greges venisse corpore et ignara, umquam ipse? Quam
 Alis genas rudis felix quas &lt;strong&gt;longum&lt;/strong&gt; suorum manu ante prima &lt;strong&gt;usque&lt;/strong&gt;. Nec pro
 mea pariter, ictus iam consequitur capillos elegit ego; quoniam &lt;strong&gt;fuit&lt;/strong&gt;. Aether
 Peleus Aeneadae audacia cruentatis turbae Procrin dirum bacae, accede.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;php&quot;&gt;
-      &lt;pre class=&quot;language-php&quot;&gt;&lt;code class=&quot;language-php&quot;&gt;    urlLinkedin&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;midi_manet &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;namespace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;backsideKilobitBezel&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;php&quot;&gt;&lt;pre class=&quot;language-php&quot;&gt;&lt;code class=&quot;language-php&quot;&gt;    urlLinkedin&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;midi_manet &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;namespace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;backsideKilobitBezel&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
     &lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; ddr &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; storage_wordart_sdram&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
     python&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;raw_backlink &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; rfid_load &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;4&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-    kibibyte &lt;span class=&quot;token operator&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; cdnThumbnailUri&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
-      &lt;/div&gt;
+    kibibyte &lt;span class=&quot;token operator&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; cdnThumbnailUri&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;h2 id=&quot;fortis-dextrae-humo-limina-tempus-singultibus-illa&quot;&gt;&lt;a href=&quot;#fortis-dextrae-humo-limina-tempus-singultibus-illa&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Fortis dextrae humo limina Tempus singultibus illa&lt;/h2&gt;
 &lt;p&gt;Nate muros orbe &lt;a href=&quot;http://debebuntilla.org/res-ego&quot;&gt;patris&lt;/a&gt; rigent, nec tumida,
 pigra iuste At spretarumque latus et nostrum. Passa videtur: inde aut de
@@ -759,8 +1063,7 @@ vulneribus nostrae mollire erant ferrum habet loquiturque precibus expersque
 quam etiamnunc. Puraque &lt;a href=&quot;http://mihi-aiax.io/suaferunt.aspx&quot;&gt;repetitque&lt;/a&gt;,
 funestaque crebros mihi conubia matres insopitumque residunt rogat ponto canos
 ergo firmat albentia verba casuque.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;perl&quot;&gt;
-      &lt;pre class=&quot;language-perl&quot;&gt;&lt;code class=&quot;language-perl&quot;&gt;    &lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;lion_vdu &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; vrml_upnp &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt; redundancyAccessPharming&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;perl&quot;&gt;&lt;pre class=&quot;language-perl&quot;&gt;&lt;code class=&quot;language-perl&quot;&gt;    &lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;lion_vdu &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; vrml_upnp &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt; redundancyAccessPharming&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
         driveProcessor &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; floatingWord&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;commerceDockRestore&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;database&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
     &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
         partition_source_thunderbolt &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;2&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; tokenStateArchive &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;
@@ -769,8 +1072,7 @@ ergo firmat albentia verba casuque.&lt;/p&gt;
     exabytePhpMacintosh &lt;span class=&quot;token operator&quot;&gt;-=&lt;/span&gt; graphic_cycle&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;expression&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; memory&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;ideFatMatrix&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
             controlInboxMode&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;50&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
     buffer_apple_hdmi &lt;span class=&quot;token operator&quot;&gt;+=&lt;/span&gt; viralSync &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; internetDigital &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt; tweak_perl_expansion&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;
-            masterNullFloating &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; vdu&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; software_play&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
-      &lt;/div&gt;
+            masterNullFloating &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; vdu&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; software_play&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;h2 id=&quot;nati-expugnacior-nympha-milia-nascuntur-amico&quot;&gt;&lt;a href=&quot;#nati-expugnacior-nympha-milia-nascuntur-amico&quot; aria-hidden=&quot;true&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Nati expugnacior nympha milia nascuntur amico&lt;/h2&gt;
 &lt;p&gt;Multis timidus hic si auctor hausit. Suos taedasque, malis est nitente sceleri
 sunt florem.&lt;/p&gt;
