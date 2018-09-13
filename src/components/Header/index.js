@@ -79,7 +79,7 @@ const DefiHeader = (props) => {
         <Grid container spacing={16} justify="center">
           {renderMenu()}
           <Grid item>
-            <a id="logoLink" href="">
+            <a id="logoLink" href="/">
               {renderLogo()}
             </a>
           </Grid>

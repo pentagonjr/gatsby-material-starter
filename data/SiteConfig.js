@@ -23,7 +23,7 @@ module.exports = {
   // Links to social profiles/projects you want to display in the author segment/navigation bar.
   userLinks: [
     {
-      label: "GitHub",
+      label: "UI",
       url: "https://github.com/Vagr9K/gatsby-material-starter",
       iconClassName: "fa fa-github"
     },

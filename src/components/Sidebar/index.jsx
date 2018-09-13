@@ -53,10 +53,11 @@ const Sidebar = (props) => {
       <div className={classes.sidebar}>
         {props.children.map((item, i) => {
           if (item.divider) {
-            return <Divider className={classes.divider} />
+            return <Divider key={i} />
           }
 
           const active = item.primaryText === 'Home' ? classes.activeLink : '';
+          console.log(item);
           return (
             <li key={i} className={`${classes.link} ${active}`}>
               {item.primaryText}
