@@ -24,6 +24,7 @@ module.exports = {
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-lodash",
     "gatsby-plugin-sass",
+    "gatsby-plugin-jss",
     {
       resolve: "gatsby-source-filesystem",
       options: {
