@@ -40,6 +40,7 @@ class Navigation extends Component {
       mql: mql,
       open: mql.matches,
     });
+  }
 
   toggleSidebar = bool => {
     if (bool === undefined) {
@@ -47,7 +48,7 @@ class Navigation extends Component {
     }
 
     return this.setState({ open: bool });
-  };
+  }
 
   render() {
     const { children, localTitle, config, classes } = this.props;
