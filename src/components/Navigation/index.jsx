@@ -18,7 +18,7 @@ const styles = theme => ({
   }
 })
 
-const mql = window.matchMedia(`(min-width: 960px)`);
+const mql = window && window.matchMedia(`(min-width: 960px)`);
 
 class Navigation extends Component {
   state = {
