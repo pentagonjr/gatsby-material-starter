@@ -11,18 +11,30 @@ const styles = theme => ({
     minHeight: '100%',
     flexDirection: 'column',
     flex: 1,
+<<<<<<< HEAD
+    marginTop: 70,
+  },
+  pushed: {
+    marginLeft: 240,
+  },
+});
+=======
     paddingTop: 68,
   },
   pushed: {
     marginLeft: 300,
-  },
-});
+  }
+})
+>>>>>>> 1bee61879ab425dced8327646cc60a96a5129cea
 
 const mql = typeof window !== 'undefined' ? window.matchMedia(`(min-width: 960px)`) : {};
 
 class Navigation extends Component {
   state = {
     open: true,
+<<<<<<< HEAD
+  };
+=======
     mql,
   }
 
@@ -40,6 +52,8 @@ class Navigation extends Component {
       mql: mql,
       open: mql.matches,
     });
+  }
+>>>>>>> 1bee61879ab425dced8327646cc60a96a5129cea
 
   toggleSidebar = bool => {
     if (bool === undefined) {
@@ -50,10 +64,15 @@ class Navigation extends Component {
   };
 
   render() {
+<<<<<<< HEAD
+    const { children, LocalTitle, classes } = this.props;
+    const contentPush = this.state.open ? classes.pushed : '';
+=======
     const { children, localTitle, config, classes } = this.props;
     const { open, mql } = this.state;
     const footerLinks = localTitle !== "About";
     const contentPush = open && mql.matches ? classes.pushed : '';
+>>>>>>> 1bee61879ab425dced8327646cc60a96a5129cea
 
     return (
       <div>
@@ -62,7 +81,11 @@ class Navigation extends Component {
           {getNavList(config)}
         </Sidebar>
         <div className={`${classes.content} ${contentPush}`}>{children}</div>
+<<<<<<< HEAD
+        <Footer />
+=======
         {/* <Footer userLinks={footerLinks} /> */}
+>>>>>>> 1bee61879ab425dced8327646cc60a96a5129cea
       </div>
     );
   }
