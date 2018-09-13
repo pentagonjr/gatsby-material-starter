@@ -22,6 +22,7 @@ const withRoot = (Component) => {
     }
 
     render() {
+      console.log(this.props);
       // MuiThemeProvider makes the theme available down the React tree thanks to React context.
       return (
         <MuiThemeProvider

@@ -7,7 +7,13 @@ import {
 } from '@material-ui/core/styles';
 
 // Create a theme with Gatsby brand colors. You can choose your own
-const theme = createMuiTheme();
+const theme = createMuiTheme({
+  palette: {
+    primary: green,
+    accent: red,
+    type: 'light',
+  },
+});
 
 function createPageContext() {
   return {
