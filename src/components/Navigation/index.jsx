@@ -3,7 +3,7 @@ import { withStyles } from '@material-ui/core/styles';
 import Footer from "../Footer";
 import Header from '../Header';
 import Sidebar from '../Sidebar';
-import getNavList from 'utils/getNavList';
+import getNavList from '../../utils/getNavList';
 
 const styles = theme => ({
   content: {
