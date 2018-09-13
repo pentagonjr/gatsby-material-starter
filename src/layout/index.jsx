@@ -5,13 +5,9 @@ import Navigation from "../components/Navigation";
 import config from "../../data/SiteConfig";
 import "./index.scss";
 import "./global.scss";
+import withRoot from './withRoot';
 
-import MuiThemeProvider from '@material-ui/core/styles/MuiThemeProvider';
-import createMuiTheme from '@material-ui/core/styles/createMuiTheme';
-import CssBaseline from '@material-ui/core/CssBaseline';
-const theme = createMuiTheme();
-
-export default class MainLayout extends React.Component {
+class MainLayout extends React.Component {
   render() {
     const { children } = this.props;
     // return (
@@ -26,17 +22,16 @@ export default class MainLayout extends React.Component {
     // );
 
     return (
-      <MuiThemeProvider theme={theme}>
-        <CssBaseline />
-        <Navigation config={config} localTitle={this.props.title}>
-          <div>
-            <Helmet>
-              <meta name="description" content={config.siteDescription} />
-            </Helmet>
-            {children}
-          </div>
-        </Navigation>
-      </MuiThemeProvider>
+      <Navigation config={config} localTitle={this.props.title}>
+        <div>
+          <Helmet>
+            <meta name="description" content={config.siteDescription} />
+          </Helmet>
+          {children}
+        </div>
+      </Navigation>
     )
   }
 }
+
+export default withRoot(MainLayout);

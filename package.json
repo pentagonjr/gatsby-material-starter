@@ -34,6 +34,7 @@
     "gatsby-source-filesystem": "next",
     "gatsby-transformer-remark": "next",
     "gatsby-transformer-sharp": "next",
+    "jss": "^9.8.7",
     "lodash": "^4.17.10",
     "moment": "^2.22.2",
     "netlify-cms": "^2.1.1",
